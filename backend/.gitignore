@@ -21,6 +21,6 @@ temp/
 dist/
 build/
 
-# Sistema operacional
+#Sistema operacional
 .DS_Store
 Thumbs.db
